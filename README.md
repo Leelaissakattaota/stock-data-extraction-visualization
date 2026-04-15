@@ -22,11 +22,6 @@ Capstone assignment extracting and visualizing stock data for **Tesla and GameSt
 ## 🎓 Skills Demonstrated
 yfinance API · Web scraping with BeautifulSoup · Plotly interactive charts · Pandas DataFrames · Financial data visualization
 
-## 📛 Suggested Name & Description
-**Name:** `stock-data-extraction-visualization`  
-**Description:** `Extracting & visualizing Tesla and GameStop stock data — yfinance API + BeautifulSoup web scraping + Plotly interactive dashboards (IBM Watson Studio capstone)`  
-**Topics:** `python` `yfinance` `beautifulsoup` `plotly` `data-visualization` `financial-analysis` `web-scraping` `pandas` `ibm-watson-studio`
-
 ## 🤝 Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Leela%20A-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leela-a)
 [![Gmail](https://img.shields.io/badge/Gmail-attotaleelaissak@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:attotaleelaissak@gmail.com)
